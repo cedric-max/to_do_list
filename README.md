@@ -17,7 +17,7 @@ Cette application web est une simple liste de tâches (to-do list) développée 
 1. Clonez ce dépôt ou téléchargez les fichiers source.
 
    ```bash
-   git clone https://github.com/cedric-max/api-avant-alpes.git
+   git clone https://github.com/cedric-max/to_do_list.git
 
 2. Installez les dépendances nécessaires.
 
